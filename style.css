@@ -1,4 +1,14 @@
 body { 
 text-align: center; 
-	font-size: 2em;
-	}
+	font-size: 1em;
+	font-family: 'Tangerine', cursive;
+background-image:url("waves.png"); 
+background-position: center
+color:#f4f141;
+}
+header{
+	color:#7a42f4;
+}
+main{
+	color:#7a42f4;
+}
